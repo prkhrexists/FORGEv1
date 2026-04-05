@@ -1,0 +1,20 @@
+# ── Core Agent Framework ──────────────────────────────────────────────────────
+crewai                    # Multi-agent orchestration framework
+crewai-tools              # Optional helper tools that CrewAI agents can use
+
+# ── Web UI ───────────────────────────────────────────────────────────────────
+streamlit                 # Fast Python web-app framework
+plotly                    # Radar chart visualization
+
+# ── PDF Parsing ───────────────────────────────────────────────────────────────
+pdfplumber                # Reliable PDF text extraction library
+
+# ── Configuration ─────────────────────────────────────────────────────────────
+python-dotenv             # Load environment variables from a .env file
+
+# ── Retry Logic ───────────────────────────────────────────────────────────────
+tenacity                  # Exponential backoff for rate-limit handling
+
+# ── PDF Generation ────────────────────────────────────────────────────────────
+requests                  # HTTP client for PDFMonkey API calls
+fpdf2                     # Fallback local PDF generation
