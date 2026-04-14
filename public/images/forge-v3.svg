@@ -1,0 +1,12 @@
+<svg width="420" height="96" viewBox="0 0 420 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="forgeGrad" x1="16" y1="16" x2="80" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="80" height="80" rx="24" fill="#18181B"/>
+  <path d="M28 28h40v10H40v8h24v10H40v20H28V28z" fill="url(#forgeGrad)"/>
+  <text x="106" y="58" fill="#18181B" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="900" letter-spacing="1.2">FORGE V3</text>
+</svg>
